@@ -1,0 +1,33 @@
+{
+    "name": "linkit",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple jQuery plugin to convert any element into a link.",
+    "keywords": [
+        "Link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Raj Ankathi",
+        "url": "wannabeguru.com"
+    },
+    "maintainers": [
+        {
+            "name": "Raj Ank",
+            "email": "nankathi@gmail.com",
+            "url": "wannabeguru.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/nankathi/jquery.linkit.git/MIT-LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/nankathi/jquery.linkit.git",
+    "docs": "https://github.com/nankathi/jquery.linkit.git",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
